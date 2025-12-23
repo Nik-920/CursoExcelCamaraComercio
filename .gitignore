@@ -1,0 +1,50 @@
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+~$*.xlsb
+
+# Archivos de respaldo de Excel
+*.xlk
+*.bak
+
+# Archivos temporales de Windows
+*.tmp
+*.temp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Archivos temporales de Office
+*.~*
+
+# Carpetas de sistema
+$RECYCLE.BIN/
+
+# IDE y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Archivos de log
+*.log
+
+# Carpetas de cache
+__pycache__/
+*.pyc
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Archivos comprimidos temporales
+*.zip.tmp
+
