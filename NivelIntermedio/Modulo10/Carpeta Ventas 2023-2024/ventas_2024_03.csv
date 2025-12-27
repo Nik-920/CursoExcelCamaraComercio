@@ -1,0 +1,371 @@
+ID Factura,Nombre Cliente,Genero,Pais,Precio USD,Unidades Vendidas,Fecha Venta,Familia de Productos
+INV2024030001,Amanda Wells,Femenino,Canada,309.45,2,2024-03-01,Desktops
+INV2024030002,Tammy Brown,Femenino,Italia,811.75,5,2024-03-01,Televisores
+INV2024030003,Joyce Cobb,Femenino,Alemania,358.71,6,2024-03-01,Desktops
+INV2024030004,Jesse Gonzalez,Masculino,Argentina,51.65,8,2024-03-01,Smartphones
+INV2024030005,Brittany Wilson,Femenino,Mexico,875.51,4,2024-03-01,Consolas
+INV2024030006,Edward Nguyen,Masculino,Mexico,836.85,5,2024-03-01,Consolas
+INV2024030007,David Young,Femenino,Alemania,956.4,10,2024-03-01,Cámaras
+INV2024030008,Emily Alexander,Masculino,España,384.12,4,2024-03-01,Consolas
+INV2024030009,Michael Coleman,Masculino,Italia,560.53,10,2024-03-01,Laptops
+INV2024030010,Charles Livingston,Masculino,USA,67.44,2,2024-03-01,Televisores
+INV2024030011,Nicole Rodriguez,Masculino,Colombia,714.75,8,2024-03-01,Consolas
+INV2024030012,William Barnes,No especificado,Alemania,183.35,6,2024-03-01,Laptops
+INV2024030013,Angel Torres,No especificado,Canada,57.61,7,2024-03-01,Televisores
+INV2024030014,Shawn Smith,Masculino,Francia,199.45,3,2024-03-01,Smartphones
+INV2024030015,Jacob Elliott,Femenino,USA,786.53,5,2024-03-01,Laptops
+INV2024030016,Michele Smith,Masculino,Canada,515.44,3,2024-03-01,Consolas
+INV2024030017,Kimberly Collins,Masculino,Canada,482.59,6,2024-03-01,Laptops
+INV2024030018,Michael Smith,Masculino,Brasil,197.47,3,2024-03-01,Tablets
+INV2024030019,Robert Bennett,Masculino,Canada,275.61,6,2024-03-01,Tablets
+INV2024030020,Molly Green,Femenino,USA,672.47,8,2024-03-01,Consolas
+INV2024030021,Kimberly Mason,Masculino,Brasil,602.48,8,2024-03-01,Laptops
+INV2024030022,Joseph Poole,Masculino,Italia,686.31,2,2024-03-01,Desktops
+INV2024030023,Jennifer Schaefer,No especificado,Italia,596.1,5,2024-03-01,Smartphones
+INV2024030024,Eileen Nelson,Masculino,Mexico,375.85,2,2024-03-01,Cámaras
+INV2024030025,Andrew Mata,No especificado,Colombia,182.13,6,2024-03-01,Smartphones
+INV2024030026,Deborah Harrison,No especificado,Brasil,586.88,1,2024-03-01,Consolas
+INV2024030027,Diane Perez,Masculino,Italia,247.35,1,2024-03-01,Cámaras
+INV2024030028,Tanner Dillon,No especificado,Italia,232.47,7,2024-03-01,Smartphones
+INV2024030029,Gregory Richardson,No especificado,España,311.54,8,2024-03-01,Laptops
+INV2024030030,Melanie Miller,No especificado,Colombia,62.37,1,2024-03-01,Televisores
+INV2024030031,Matthew Wilcox,No especificado,Colombia,231.44,7,2024-03-01,Televisores
+INV2024030032,Lisa Romero,No especificado,USA,833.12,6,2024-03-01,Desktops
+INV2024030033,Richard Salazar,No especificado,USA,124.66,2,2024-03-01,Televisores
+INV2024030034,Nicholas Wade,Femenino,Italia,115.4,1,2024-03-01,Tablets
+INV2024030035,Gregory Bailey,Masculino,Mexico,127.63,4,2024-03-01,Consolas
+INV2024030036,Elizabeth Johnson,Masculino,Canada,942.42,9,2024-03-01,Cámaras
+INV2024030037,George Decker,Femenino,Francia,208.0,7,2024-03-01,Smartphones
+INV2024030038,Kirk Mccarthy,No especificado,Colombia,983.94,1,2024-03-01,Smartphones
+INV2024030039,Anthony Lopez,Femenino,Brasil,698.96,1,2024-03-01,Laptops
+INV2024030040,Michael Cruz,No especificado,España,928.51,1,2024-03-01,Smartphones
+INV2024030041,William Torres,Femenino,España,859.17,8,2024-03-01,Tablets
+INV2024030042,Hector Gomez,Masculino,Francia,349.01,4,2024-03-01,Consolas
+INV2024030043,Edward Fischer,Masculino,USA,546.98,1,2024-03-01,Smartphones
+INV2024030044,Gregory Mooney,Femenino,Italia,638.16,8,2024-03-01,Cámaras
+INV2024030045,Douglas Bass,Femenino,Mexico,650.15,5,2024-03-01,Cámaras
+INV2024030046,Cynthia Ross,Masculino,España,545.05,3,2024-03-01,Consolas
+INV2024030047,John Lowe,Masculino,Mexico,276.08,9,2024-03-01,Consolas
+INV2024030048,Kelly Spencer,Masculino,Argentina,787.9,6,2024-03-01,Consolas
+INV2024030049,Sara Jackson,No especificado,Canada,731.54,3,2024-03-01,Desktops
+INV2024030050,George Reed,Femenino,España,810.45,6,2024-03-01,Laptops
+INV2024030051,Kimberly Watson,Masculino,Colombia,854.04,10,2024-03-01,Laptops
+INV2024030052,Cristian Morgan,No especificado,España,723.1,6,2024-03-01,Cámaras
+INV2024030053,Tammy Kemp MD,Masculino,España,771.99,2,2024-03-01,Consolas
+INV2024030054,John Hanson,No especificado,España,317.97,7,2024-03-01,Desktops
+INV2024030055,Mary Craig,Femenino,Colombia,511.54,4,2024-03-01,Desktops
+INV2024030056,Melanie Anderson,Masculino,Italia,694.97,6,2024-03-01,Desktops
+INV2024030057,Robert Collins,No especificado,Canada,691.15,8,2024-03-01,Laptops
+INV2024030058,Jonathan Logan,No especificado,Francia,989.06,8,2024-03-01,Laptops
+INV2024030059,Gary Williams,Femenino,Alemania,216.52,1,2024-03-01,Desktops
+INV2024030060,Martin Copeland,Masculino,Francia,811.97,5,2024-03-01,Smartphones
+INV2024030061,Theresa Collins,Femenino,Mexico,765.02,9,2024-03-01,Laptops
+INV2024030062,Alexandra Tran,No especificado,España,912.74,4,2024-03-01,Desktops
+INV2024030063,Martha Fox,No especificado,Francia,618.24,6,2024-03-01,Tablets
+INV2024030064,Ann Collins,Femenino,Brasil,615.76,7,2024-03-01,Cámaras
+INV2024030065,Lisa Kirk,Femenino,Alemania,677.78,9,2024-03-01,Consolas
+INV2024030066,Ashley Arnold,Femenino,Alemania,461.34,2,2024-03-01,Desktops
+INV2024030067,Cathy Gutierrez,No especificado,España,530.58,7,2024-03-01,Cámaras
+INV2024030068,Dylan Yoder,No especificado,Brasil,100.29,6,2024-03-01,Tablets
+INV2024030069,Randy Collins,No especificado,Alemania,868.55,9,2024-03-01,Consolas
+INV2024030070,Leah Logan,Masculino,Brasil,898.85,10,2024-03-01,Tablets
+INV2024030071,Joseph Watts,Masculino,USA,966.73,10,2024-03-01,Consolas
+INV2024030072,Nathaniel Lewis,Femenino,Francia,535.81,10,2024-03-01,Consolas
+INV2024030073,Ashley Hart,No especificado,Italia,55.63,3,2024-03-01,Cámaras
+INV2024030074,Todd Palmer,Masculino,España,900.85,10,2024-03-01,Tablets
+INV2024030075,Lynn Hunt,No especificado,Francia,298.21,2,2024-03-01,Televisores
+INV2024030076,Jennifer Bryant,Femenino,Alemania,751.13,4,2024-03-01,Tablets
+INV2024030077,Joshua Brown,No especificado,Colombia,290.35,1,2024-03-01,Desktops
+INV2024030078,Carrie Kemp,Femenino,Mexico,783.64,7,2024-03-01,Consolas
+INV2024030079,Susan Cook,Femenino,Mexico,582.77,7,2024-03-01,Laptops
+INV2024030080,Rebecca Porter,No especificado,Colombia,991.54,5,2024-03-01,Televisores
+INV2024030081,Alicia Delacruz,Masculino,Mexico,155.64,10,2024-03-01,Consolas
+INV2024030082,Bailey Flynn,Masculino,Alemania,454.83,9,2024-03-01,Desktops
+INV2024030083,Richard Hays,Masculino,España,639.03,5,2024-03-01,Laptops
+INV2024030084,Phyllis Shaffer,Femenino,Brasil,535.52,2,2024-03-01,Consolas
+INV2024030085,Jennifer Gonzalez,No especificado,USA,903.54,3,2024-03-01,Smartphones
+INV2024030086,Susan Johnston,No especificado,Alemania,483.96,4,2024-03-01,Televisores
+INV2024030087,Justin Jackson,Femenino,Colombia,310.93,1,2024-03-01,Desktops
+INV2024030088,Jonathan Ponce,Masculino,USA,992.21,4,2024-03-01,Consolas
+INV2024030089,Kelsey Chapman,Masculino,Argentina,986.98,7,2024-03-01,Desktops
+INV2024030090,Angela Sanchez,Masculino,España,221.72,8,2024-03-01,Cámaras
+INV2024030091,James Morales,Femenino,Mexico,406.59,10,2024-03-01,Smartphones
+INV2024030092,Alyssa Matthews,Femenino,Mexico,618.72,8,2024-03-01,Consolas
+INV2024030093,Crystal Hall,No especificado,USA,998.45,6,2024-03-01,Cámaras
+INV2024030094,Dana Galloway,Femenino,Alemania,620.27,2,2024-03-01,Tablets
+INV2024030095,Hector Rodriguez,Masculino,Argentina,461.21,9,2024-03-01,Televisores
+INV2024030096,Roberto Rodriguez,Femenino,Canada,200.36,1,2024-03-01,Televisores
+INV2024030097,Shaun Williams,Femenino,USA,318.35,10,2024-03-01,Tablets
+INV2024030098,Wanda Harris MD,Masculino,USA,55.11,3,2024-03-01,Laptops
+INV2024030099,Kevin Johnson,Femenino,Brasil,129.85,9,2024-03-01,Cámaras
+INV2024030100,Miss Patricia Lopez,No especificado,Italia,513.7,4,2024-03-01,Consolas
+INV2024030101,Linda Johnson,Femenino,USA,316.98,3,2024-03-01,Laptops
+INV2024030102,Jason Williams,Femenino,Francia,237.51,4,2024-03-01,Smartphones
+INV2024030103,Sarah Black,Masculino,Italia,885.85,9,2024-03-01,Consolas
+INV2024030104,Timothy Rodriguez,Femenino,Brasil,803.73,7,2024-03-01,Consolas
+INV2024030105,Brittany Davis,No especificado,Argentina,401.83,9,2024-03-01,Desktops
+INV2024030106,Linda Brock,No especificado,Mexico,301.08,3,2024-03-01,Laptops
+INV2024030107,Thomas Roberts,Masculino,Canada,257.71,9,2024-03-01,Tablets
+INV2024030108,Daniel Lopez,Masculino,Francia,200.41,10,2024-03-01,Cámaras
+INV2024030109,Julie Martinez,No especificado,USA,203.3,3,2024-03-01,Consolas
+INV2024030110,Kevin Boyd,Masculino,Brasil,361.89,7,2024-03-01,Cámaras
+INV2024030111,Jodi Thompson,Femenino,Argentina,756.76,5,2024-03-01,Tablets
+INV2024030112,Bridget Johnson,Femenino,Mexico,797.72,9,2024-03-01,Desktops
+INV2024030113,Kathy Pollard,No especificado,USA,154.59,4,2024-03-01,Tablets
+INV2024030114,Kelly Jackson,No especificado,Canada,80.4,4,2024-03-01,Tablets
+INV2024030115,Alexander Perez,Femenino,Alemania,68.38,10,2024-03-01,Desktops
+INV2024030116,Katie Wyatt,No especificado,Canada,767.84,1,2024-03-01,Laptops
+INV2024030117,Stephanie Parks,No especificado,España,207.57,10,2024-03-01,Televisores
+INV2024030118,Dustin Padilla,No especificado,USA,114.03,6,2024-03-01,Desktops
+INV2024030119,Geoffrey Campbell,Masculino,USA,402.54,5,2024-03-01,Tablets
+INV2024030120,Amber Ali,Masculino,Brasil,703.52,5,2024-03-01,Cámaras
+INV2024030121,Katherine Gallagher,No especificado,Francia,397.64,4,2024-03-01,Smartphones
+INV2024030122,Stephanie Smith,No especificado,Brasil,299.45,3,2024-03-01,Televisores
+INV2024030123,Thomas Williams,Masculino,Italia,795.02,9,2024-03-01,Televisores
+INV2024030124,Susan Cooley,Femenino,Italia,996.8,7,2024-03-01,Smartphones
+INV2024030125,Samantha Lucas,No especificado,España,756.59,1,2024-03-01,Televisores
+INV2024030126,Andrew Sims,Femenino,España,226.49,1,2024-03-01,Desktops
+INV2024030127,Rebecca Wilson,No especificado,Italia,738.81,4,2024-03-01,Smartphones
+INV2024030128,James Walker,Masculino,Colombia,216.75,9,2024-03-01,Consolas
+INV2024030129,Patrick Wilson,No especificado,Italia,748.93,1,2024-03-01,Tablets
+INV2024030130,Allen Ellis,Femenino,Brasil,307.12,1,2024-03-01,Smartphones
+INV2024030131,Matthew Hill,Masculino,Italia,403.58,2,2024-03-01,Smartphones
+INV2024030132,Jared Wilson,No especificado,Francia,638.41,10,2024-03-01,Laptops
+INV2024030133,Elizabeth Jackson,Masculino,USA,820.96,3,2024-03-01,Smartphones
+INV2024030134,Gregory Turner,Masculino,España,379.21,6,2024-03-01,Smartphones
+INV2024030135,Angel Miller,Masculino,Italia,160.88,7,2024-03-01,Televisores
+INV2024030136,Jessica Jackson,No especificado,Italia,374.89,4,2024-03-01,Desktops
+INV2024030137,James Stewart,Femenino,Canada,768.54,1,2024-03-01,Televisores
+INV2024030138,Holly Gray,Masculino,Canada,62.64,6,2024-03-01,Tablets
+INV2024030139,Jeffrey Porter,Masculino,Francia,368.82,4,2024-03-01,Desktops
+INV2024030140,Vicki Chavez,Femenino,Francia,639.29,5,2024-03-01,Cámaras
+INV2024030141,Elizabeth Goodwin,Femenino,Argentina,539.04,8,2024-03-01,Smartphones
+INV2024030142,Alicia Hicks,Femenino,Brasil,857.52,8,2024-03-01,Tablets
+INV2024030143,David Bennett,Femenino,Argentina,970.51,4,2024-03-01,Desktops
+INV2024030144,Joshua Thomas,Femenino,Francia,158.47,3,2024-03-01,Tablets
+INV2024030145,Timothy Mullins,No especificado,Canada,575.91,10,2024-03-01,Cámaras
+INV2024030146,Rachel Johnson,Masculino,Mexico,952.12,3,2024-03-01,Desktops
+INV2024030147,Deanna Duncan,No especificado,Brasil,716.07,2,2024-03-01,Smartphones
+INV2024030148,Tracey Turner,Masculino,Francia,190.34,8,2024-03-01,Desktops
+INV2024030149,Jennifer Rogers,Femenino,Argentina,377.21,9,2024-03-01,Smartphones
+INV2024030150,Wayne Walters,Femenino,Italia,425.65,10,2024-03-01,Laptops
+INV2024030151,Heather Wilson,Femenino,Italia,657.26,5,2024-03-01,Televisores
+INV2024030152,Jamie Mann,Femenino,Italia,905.75,2,2024-03-01,Laptops
+INV2024030153,Kevin Edwards,Femenino,USA,922.01,7,2024-03-01,Smartphones
+INV2024030154,Scott Taylor,Masculino,Brasil,171.94,5,2024-03-01,Laptops
+INV2024030155,James Grimes,No especificado,Francia,689.85,10,2024-03-01,Laptops
+INV2024030156,Nathan Leon,Masculino,España,547.4,7,2024-03-01,Consolas
+INV2024030157,Haley Nixon,Masculino,Alemania,894.49,6,2024-03-01,Smartphones
+INV2024030158,Andrew Doyle,Femenino,USA,340.16,2,2024-03-01,Cámaras
+INV2024030159,Jade Gonzalez,No especificado,España,301.49,2,2024-03-01,Consolas
+INV2024030160,Jeffery Moon,Femenino,Argentina,170.38,2,2024-03-01,Smartphones
+INV2024030161,Helen Miller,No especificado,Francia,609.62,2,2024-03-01,Desktops
+INV2024030162,Samuel Spears,No especificado,Italia,883.86,5,2024-03-01,Televisores
+INV2024030163,Cathy Lamb,No especificado,USA,898.15,3,2024-03-01,Consolas
+INV2024030164,Elizabeth Gibson,Masculino,Canada,210.02,4,2024-03-01,Cámaras
+INV2024030165,Michael Byrd,No especificado,Mexico,440.61,9,2024-03-01,Tablets
+INV2024030166,Colin Conway,Masculino,Francia,141.43,1,2024-03-01,Laptops
+INV2024030167,Matthew Thomas,Masculino,Italia,653.33,4,2024-03-01,Cámaras
+INV2024030168,Darren Smith,No especificado,Alemania,615.56,9,2024-03-01,Laptops
+INV2024030169,Randy Stevens,No especificado,España,918.75,8,2024-03-01,Cámaras
+INV2024030170,Brenda Morgan,No especificado,Brasil,183.57,3,2024-03-01,Smartphones
+INV2024030171,Jennifer Hill,Femenino,USA,196.37,3,2024-03-01,Laptops
+INV2024030172,Robert Smith,Femenino,Italia,201.98,5,2024-03-01,Desktops
+INV2024030173,Shannon Howard,Femenino,Francia,713.57,5,2024-03-01,Smartphones
+INV2024030174,Madeline Smith,No especificado,Argentina,480.12,3,2024-03-01,Smartphones
+INV2024030175,James Garza,Masculino,Mexico,698.94,7,2024-03-01,Desktops
+INV2024030176,Tonya Collins,Femenino,Brasil,841.13,3,2024-03-01,Televisores
+INV2024030177,Mr. Trevor Dixon,No especificado,Mexico,924.81,3,2024-03-01,Smartphones
+INV2024030178,Joseph Fowler,Femenino,Colombia,180.27,2,2024-03-01,Cámaras
+INV2024030179,David Bautista,No especificado,USA,216.09,10,2024-03-01,Cámaras
+INV2024030180,Brooke Morrison,Masculino,Brasil,675.62,10,2024-03-01,Televisores
+INV2024030181,Chad Roberts,No especificado,España,225.56,9,2024-03-01,Cámaras
+INV2024030182,Miguel Brown,Femenino,España,530.7,3,2024-03-01,Laptops
+INV2024030183,Scott Jacobs,No especificado,Canada,535.93,5,2024-03-01,Televisores
+INV2024030184,Thomas Salas,Femenino,Alemania,261.49,5,2024-03-01,Smartphones
+INV2024030185,Zachary Rhodes,No especificado,España,876.06,2,2024-03-01,Desktops
+INV2024030186,Kenneth Price,No especificado,Italia,923.21,3,2024-03-01,Laptops
+INV2024030187,Scott Sanchez,Femenino,Francia,941.56,1,2024-03-01,Desktops
+INV2024030188,William Scott,No especificado,Francia,80.26,9,2024-03-01,Televisores
+INV2024030189,Megan Mora MD,No especificado,Italia,353.18,8,2024-03-01,Smartphones
+INV2024030190,William Harris,No especificado,Canada,685.52,1,2024-03-01,Smartphones
+INV2024030191,Adam Lee,No especificado,Argentina,489.53,6,2024-03-01,Televisores
+INV2024030192,Christine Martin,No especificado,España,501.05,8,2024-03-01,Televisores
+INV2024030193,Jennifer Foley,No especificado,Italia,954.36,1,2024-03-01,Tablets
+INV2024030194,Alan Black,No especificado,Alemania,191.79,2,2024-03-01,Consolas
+INV2024030195,Leslie Vargas,No especificado,Alemania,680.65,8,2024-03-01,Tablets
+INV2024030196,Cody Wolf,Femenino,Francia,672.03,6,2024-03-01,Tablets
+INV2024030197,Ivan Porter,Femenino,Mexico,435.35,8,2024-03-01,Consolas
+INV2024030198,Tiffany Wong,No especificado,Brasil,96.15,6,2024-03-01,Cámaras
+INV2024030199,Gregory Lopez,No especificado,Brasil,188.91,3,2024-03-01,Smartphones
+INV2024030200,Fernando King,Masculino,Colombia,621.28,1,2024-03-01,Televisores
+INV2024030201,Andrea Lopez,No especificado,Argentina,563.79,8,2024-03-01,Smartphones
+INV2024030202,Crystal Montgomery,Masculino,Colombia,725.77,2,2024-03-01,Tablets
+INV2024030203,James Carr,No especificado,Francia,447.03,4,2024-03-01,Consolas
+INV2024030204,Dr. Mark Ferguson,Femenino,Argentina,236.74,3,2024-03-01,Smartphones
+INV2024030205,Michael Johnson,Femenino,España,394.59,6,2024-03-01,Consolas
+INV2024030206,Adam Johnson,No especificado,Mexico,326.03,7,2024-03-01,Televisores
+INV2024030207,Jennifer Best,Femenino,USA,377.17,2,2024-03-01,Consolas
+INV2024030208,John Johnson,Femenino,USA,516.62,6,2024-03-01,Desktops
+INV2024030209,Timothy Clark,Femenino,Brasil,833.25,3,2024-03-01,Televisores
+INV2024030210,Jill Blake,No especificado,USA,167.66,3,2024-03-01,Televisores
+INV2024030211,Richard Mora,No especificado,Mexico,51.22,5,2024-03-01,Televisores
+INV2024030212,Mikayla Haney,Masculino,Colombia,756.17,3,2024-03-01,Consolas
+INV2024030213,Barbara Rogers,Masculino,USA,924.95,5,2024-03-01,Cámaras
+INV2024030214,Timothy Dougherty,No especificado,Brasil,230.6,7,2024-03-01,Televisores
+INV2024030215,Stephanie Miller,Femenino,Italia,745.41,4,2024-03-01,Smartphones
+INV2024030216,Christopher Lowery,No especificado,USA,796.35,5,2024-03-01,Smartphones
+INV2024030217,Marisa Smith,Masculino,Argentina,831.5,4,2024-03-01,Consolas
+INV2024030218,Christopher Jenkins,No especificado,Canada,361.33,6,2024-03-01,Cámaras
+INV2024030219,Melanie Williams,Femenino,España,237.73,2,2024-03-01,Consolas
+INV2024030220,Kirsten Davis,Femenino,USA,706.52,2,2024-03-01,Cámaras
+INV2024030221,Janet Aguirre,Femenino,Alemania,585.89,6,2024-03-01,Consolas
+INV2024030222,Jennifer Frazier,Femenino,USA,898.49,7,2024-03-01,Cámaras
+INV2024030223,Mark Schultz,Femenino,USA,54.27,8,2024-03-01,Desktops
+INV2024030224,Mark Carroll,Masculino,España,898.2,2,2024-03-01,Laptops
+INV2024030225,Sara Oconnell,No especificado,Francia,857.85,2,2024-03-01,Tablets
+INV2024030226,Diana Cooper,Femenino,Alemania,657.87,10,2024-03-01,Televisores
+INV2024030227,Latoya Olsen,Masculino,Alemania,299.19,8,2024-03-01,Cámaras
+INV2024030228,John Hale,No especificado,Italia,872.21,2,2024-03-01,Cámaras
+INV2024030229,Andrew Phillips,Femenino,Francia,821.03,9,2024-03-01,Laptops
+INV2024030230,Lynn Brown,Masculino,España,141.91,1,2024-03-01,Consolas
+INV2024030231,Nancy Johnson,Masculino,España,334.58,6,2024-03-01,Consolas
+INV2024030232,Trevor Patrick,Femenino,Italia,607.02,4,2024-03-01,Cámaras
+INV2024030233,Jasmine Cox,Masculino,Mexico,798.12,7,2024-03-01,Laptops
+INV2024030234,Amy Price,Masculino,USA,904.28,8,2024-03-01,Tablets
+INV2024030235,Amanda Shah,No especificado,Alemania,901.24,10,2024-03-01,Desktops
+INV2024030236,Benjamin Washington,Masculino,Mexico,618.93,9,2024-03-01,Desktops
+INV2024030237,James Brady,Masculino,Brasil,489.25,10,2024-03-01,Desktops
+INV2024030238,Mary Moore,Femenino,Argentina,915.48,8,2024-03-01,Televisores
+INV2024030239,Michael Morris,No especificado,USA,875.23,2,2024-03-01,Cámaras
+INV2024030240,Matthew Thompson,Femenino,Alemania,950.09,2,2024-03-01,Desktops
+INV2024030241,Sharon Chavez,Femenino,España,197.17,8,2024-03-01,Consolas
+INV2024030242,Bryan Ellison,Masculino,Brasil,70.98,2,2024-03-01,Cámaras
+INV2024030243,Peter Robertson,Femenino,Italia,955.13,7,2024-03-01,Televisores
+INV2024030244,Tyrone Li,Masculino,Argentina,408.96,3,2024-03-01,Consolas
+INV2024030245,Teresa Mcdaniel,Masculino,Mexico,476.74,1,2024-03-01,Tablets
+INV2024030246,Matthew Alvarado,Masculino,USA,776.72,4,2024-03-01,Desktops
+INV2024030247,Christina Johnson,No especificado,Mexico,880.62,10,2024-03-01,Tablets
+INV2024030248,Harold Chapman,Femenino,Colombia,67.99,5,2024-03-01,Consolas
+INV2024030249,Deborah Perez,Masculino,Italia,239.31,3,2024-03-01,Desktops
+INV2024030250,William Dixon,Masculino,Canada,703.62,9,2024-03-01,Consolas
+INV2024030251,Sierra Dudley,Femenino,Francia,530.04,1,2024-03-01,Tablets
+INV2024030252,Jessica Moyer,Femenino,Brasil,274.55,1,2024-03-01,Tablets
+INV2024030253,James Johnson,Femenino,Alemania,488.32,4,2024-03-01,Smartphones
+INV2024030254,Allison Winters,Masculino,Canada,244.76,9,2024-03-01,Smartphones
+INV2024030255,Angel Ryan,Femenino,Canada,720.82,2,2024-03-01,Televisores
+INV2024030256,Michelle Alexander,Masculino,España,349.41,5,2024-03-01,Consolas
+INV2024030257,Lucas Shaffer,Femenino,Francia,616.2,4,2024-03-01,Desktops
+INV2024030258,Christine Peters,Femenino,Francia,501.92,9,2024-03-01,Consolas
+INV2024030259,Bryan Abbott,Femenino,Colombia,890.65,1,2024-03-01,Laptops
+INV2024030260,Christopher Johnson,No especificado,Alemania,220.17,8,2024-03-01,Smartphones
+INV2024030261,Meghan Clements,Femenino,Francia,50.79,7,2024-03-01,Cámaras
+INV2024030262,Christine Tucker,Masculino,USA,298.57,8,2024-03-01,Smartphones
+INV2024030263,Nicholas Evans,Masculino,Brasil,696.37,10,2024-03-01,Tablets
+INV2024030264,John Walters,No especificado,España,496.54,7,2024-03-01,Televisores
+INV2024030265,Angela Hill,Masculino,Argentina,720.81,8,2024-03-01,Desktops
+INV2024030266,Brandon Rodriguez,Femenino,Francia,71.75,9,2024-03-01,Tablets
+INV2024030267,Russell Hammond,Masculino,USA,478.14,9,2024-03-01,Smartphones
+INV2024030268,Melissa Ellis,Femenino,Italia,79.52,1,2024-03-01,Televisores
+INV2024030269,Calvin King,Masculino,USA,879.29,5,2024-03-01,Laptops
+INV2024030270,Andrew Fox,Femenino,Francia,134.66,3,2024-03-01,Smartphones
+INV2024030271,Thomas Bernard,Femenino,Italia,195.43,8,2024-03-01,Desktops
+INV2024030272,Jeremiah Erickson,No especificado,Colombia,292.24,10,2024-03-01,Desktops
+INV2024030273,Thomas Flores,Femenino,Colombia,534.28,3,2024-03-01,Tablets
+INV2024030274,Zachary Clements,No especificado,Italia,411.47,3,2024-03-01,Televisores
+INV2024030275,Isaiah Morrison,Masculino,Colombia,423.45,8,2024-03-01,Tablets
+INV2024030276,Debra Cruz,Masculino,USA,722.78,9,2024-03-01,Tablets
+INV2024030277,Shawn Velasquez,No especificado,Brasil,472.3,5,2024-03-01,Tablets
+INV2024030278,Amanda Armstrong,No especificado,Italia,897.25,9,2024-03-01,Tablets
+INV2024030279,Paul Castillo,Masculino,Brasil,858.67,9,2024-03-01,Cámaras
+INV2024030280,Zachary Martin Jr.,Masculino,Italia,71.9,5,2024-03-01,Tablets
+INV2024030281,Daniel Conley,No especificado,Brasil,500.38,5,2024-03-01,Smartphones
+INV2024030282,Jordan Roach,Femenino,Italia,916.67,10,2024-03-01,Smartphones
+INV2024030283,Steven Griffin,No especificado,Francia,140.89,1,2024-03-01,Cámaras
+INV2024030284,Stacey Sanchez,No especificado,Colombia,833.12,3,2024-03-01,Tablets
+INV2024030285,Brian Velez,Masculino,Argentina,705.26,6,2024-03-01,Tablets
+INV2024030286,Justin Lewis,Masculino,Alemania,414.12,9,2024-03-01,Televisores
+INV2024030287,David Barker,No especificado,Colombia,92.15,8,2024-03-01,Cámaras
+INV2024030288,Robert Hickman,No especificado,USA,428.01,10,2024-03-01,Televisores
+INV2024030289,Lisa Trujillo,Masculino,Mexico,784.6,8,2024-03-01,Laptops
+INV2024030290,Jennifer White,No especificado,Argentina,133.53,10,2024-03-01,Consolas
+INV2024030291,Debra Berry,No especificado,Colombia,735.02,7,2024-03-01,Smartphones
+INV2024030292,Anthony Pruitt,No especificado,Canada,198.49,4,2024-03-01,Cámaras
+INV2024030293,Amy Wong DVM,Masculino,Mexico,759.79,5,2024-03-01,Televisores
+INV2024030294,April Palmer,Masculino,Alemania,671.81,2,2024-03-01,Desktops
+INV2024030295,Emily Richardson,No especificado,Mexico,482.32,2,2024-03-01,Cámaras
+INV2024030296,Bryan Bray,No especificado,USA,580.06,1,2024-03-01,Desktops
+INV2024030297,Natalie Allen,Masculino,USA,500.67,1,2024-03-01,Consolas
+INV2024030298,Andre Scott,Masculino,Argentina,818.94,5,2024-03-01,Laptops
+INV2024030299,Mrs. Sharon Johnson,Masculino,Francia,755.96,7,2024-03-01,Smartphones
+INV2024030300,Lori Perkins,Femenino,Brasil,634.84,8,2024-03-01,Laptops
+INV2024030301,David Carson,Femenino,USA,734.26,1,2024-03-01,Televisores
+INV2024030302,Justin Sanchez,Masculino,España,186.42,5,2024-03-01,Laptops
+INV2024030303,Samuel Bryan,Masculino,Francia,904.03,10,2024-03-01,Laptops
+INV2024030304,Misty Campbell,Femenino,Italia,490.11,3,2024-03-01,Tablets
+INV2024030305,Krista Aguilar,Femenino,Italia,395.56,9,2024-03-01,Smartphones
+INV2024030306,Mrs. Whitney Brooks MD,Masculino,Alemania,109.81,9,2024-03-01,Televisores
+INV2024030307,Jacqueline Dennis,Masculino,Francia,502.47,3,2024-03-01,Consolas
+INV2024030308,Holly Black,No especificado,Alemania,195.33,10,2024-03-01,Consolas
+INV2024030309,Chad Estes,No especificado,Mexico,191.33,4,2024-03-01,Smartphones
+INV2024030310,Karen Fox,No especificado,Alemania,361.17,2,2024-03-01,Televisores
+INV2024030311,Elizabeth Deleon,Femenino,Italia,705.13,6,2024-03-01,Tablets
+INV2024030312,Travis Dominguez,No especificado,Argentina,864.83,1,2024-03-01,Laptops
+INV2024030313,James Perry,Femenino,Canada,881.3,8,2024-03-01,Cámaras
+INV2024030314,Christina Hicks,No especificado,Brasil,837.54,7,2024-03-01,Laptops
+INV2024030315,Kimberly Eaton,No especificado,Brasil,736.85,3,2024-03-01,Consolas
+INV2024030316,David Hickman,Femenino,Colombia,795.71,1,2024-03-01,Laptops
+INV2024030317,Cody Smith,Masculino,Canada,491.11,3,2024-03-01,Consolas
+INV2024030318,John Walton,Femenino,Argentina,942.68,7,2024-03-01,Laptops
+INV2024030319,Bruce Lee,Masculino,Alemania,909.33,8,2024-03-01,Smartphones
+INV2024030320,Anna Ryan,Femenino,Francia,592.28,1,2024-03-01,Smartphones
+INV2024030321,James Perez,No especificado,Brasil,739.49,10,2024-03-01,Cámaras
+INV2024030322,Nicole Lynn,Femenino,Brasil,267.88,9,2024-03-01,Smartphones
+INV2024030323,Daniel Mccall,Femenino,Francia,293.6,1,2024-03-01,Smartphones
+INV2024030324,Julie Roberson,No especificado,Alemania,219.04,4,2024-03-01,Cámaras
+INV2024030325,Erik Hoffman,Femenino,Francia,593.16,8,2024-03-01,Televisores
+INV2024030326,Rodney Smith,Masculino,Alemania,516.96,10,2024-03-01,Tablets
+INV2024030327,Jackie Robertson,Femenino,Italia,842.47,2,2024-03-01,Consolas
+INV2024030328,Kevin Tran,Femenino,Canada,844.15,5,2024-03-01,Tablets
+INV2024030329,Travis Marquez,No especificado,Alemania,516.12,6,2024-03-01,Desktops
+INV2024030330,Rhonda Dillon,No especificado,Mexico,306.25,7,2024-03-01,Desktops
+INV2024030331,Andrew Bailey,No especificado,España,486.46,4,2024-03-01,Consolas
+INV2024030332,Gary Brown,Femenino,España,193.65,3,2024-03-01,Cámaras
+INV2024030333,Misty Garcia,Masculino,Colombia,777.84,10,2024-03-01,Desktops
+INV2024030334,Jonathan Little,Masculino,Francia,542.37,3,2024-03-01,Tablets
+INV2024030335,Joseph Young,Femenino,Mexico,263.37,10,2024-03-01,Televisores
+INV2024030336,Laura Sims,Femenino,Canada,700.44,6,2024-03-01,Consolas
+INV2024030337,Mary Mann,Masculino,Brasil,94.56,9,2024-03-01,Consolas
+INV2024030338,Robert Scott,Femenino,Canada,546.97,9,2024-03-01,Televisores
+INV2024030339,Gary Elliott,Masculino,España,578.53,5,2024-03-01,Televisores
+INV2024030340,Samuel Wilkerson,Masculino,Argentina,316.31,8,2024-03-01,Consolas
+INV2024030341,Phyllis Ross,Masculino,USA,139.9,5,2024-03-01,Desktops
+INV2024030342,Logan Arnold,Femenino,Brasil,771.77,1,2024-03-01,Desktops
+INV2024030343,Jason Leon,Femenino,Brasil,294.2,6,2024-03-01,Televisores
+INV2024030344,Matthew Rodriguez,No especificado,Italia,110.22,2,2024-03-01,Cámaras
+INV2024030345,Samuel Brown,No especificado,USA,85.39,1,2024-03-01,Televisores
+INV2024030346,Jessica Olsen,Femenino,Alemania,275.51,10,2024-03-01,Smartphones
+INV2024030347,Amanda Holder,Masculino,Argentina,358.56,7,2024-03-01,Consolas
+INV2024030348,Emily Maxwell,Masculino,Canada,308.49,5,2024-03-01,Smartphones
+INV2024030349,Shane Ramos,Masculino,Francia,998.08,9,2024-03-01,Consolas
+INV2024030350,April Mcbride,Femenino,España,812.94,5,2024-03-01,Cámaras
+INV2024030351,Susan Johnson,Femenino,Colombia,327.35,1,2024-03-01,Laptops
+INV2024030352,Benjamin Hernandez,Femenino,Alemania,744.47,3,2024-03-01,Desktops
+INV2024030353,Christy Kennedy,Masculino,Argentina,343.62,6,2024-03-01,Consolas
+INV2024030354,Claudia Mckinney,Masculino,USA,119.38,6,2024-03-01,Cámaras
+INV2024030355,Michelle Walker,No especificado,Mexico,730.89,5,2024-03-01,Desktops
+INV2024030356,Kellie Estrada,Masculino,Italia,518.32,1,2024-03-01,Smartphones
+INV2024030357,Stacey Ortiz,Masculino,Argentina,737.96,7,2024-03-01,Cámaras
+INV2024030358,Kimberly Keith,No especificado,Alemania,791.62,4,2024-03-01,Televisores
+INV2024030359,Sandra Porter,No especificado,Brasil,801.97,9,2024-03-01,Cámaras
+INV2024030360,Jose Richards,Masculino,Argentina,862.8,1,2024-03-01,Televisores
+INV2024030361,Mary Serrano,Masculino,Alemania,708.97,3,2024-03-01,Tablets
+INV2024030362,Ryan Smith DDS,Masculino,Argentina,641.09,6,2024-03-01,Smartphones
+INV2024030363,Ashley Sandoval,No especificado,Argentina,435.2,10,2024-03-01,Smartphones
+INV2024030364,Jose Ayers,Femenino,Italia,787.13,1,2024-03-01,Cámaras
+INV2024030365,Joel Martinez,No especificado,Alemania,298.04,4,2024-03-01,Tablets
+INV2024030366,Brittany Gonzales,Femenino,Argentina,542.09,8,2024-03-01,Smartphones
+INV2024030367,Rebekah Rodriguez,Masculino,Canada,480.81,1,2024-03-01,Tablets
+INV2024030368,Julie Hobbs,Masculino,Canada,635.38,10,2024-03-01,Desktops
+INV2024030369,Leslie Brown,Femenino,Mexico,482.36,5,2024-03-01,Cámaras
+INV2024030370,Megan White,No especificado,Italia,482.84,4,2024-03-01,Consolas
